@@ -1,0 +1,21 @@
+Udostępnione Materiały i pliki
+https://github.com/mariusz7b1/Kurs
+
+
+Materiały Microsoft
+PL
+https://learn.microsoft.com/pl-pl/training/courses/az-040t00?WT.mc_id=ilt_partner_webpage_wwl
+US
+https://learn.microsoft.com/en-us/training/courses/az-040t00?WT.mc_id=ilt_partner_webpage_wwl
+
+
+https://learn.microsoft.com/en-us/training/paths/powershell/?source=recommendations
+
+
+Virtual Box
+Host key: prawy control
+Ctrl-Alt-Del  -> Host Kye+Del
+Full screen -> Host key +F
+
+Logowanie do komp virtualnych hasło : Pa55w.rd
+
