@@ -1,8 +1,11 @@
-﻿function Test-Katalog {
+﻿ # przeanalizuj , skomentuj , przetestuj
+
+
+function Test-Katalog {
     param (
         [ValidateScript({
             if (-not (Test-Path $_ -PathType Container)) {
-                Write-Host "Ścieżka nie jest katalogiem."
+                Write-Host "Ścieżka nie jest katalogiem." 
                 return $false
             }
 

@@ -12,3 +12,5 @@
 
 # Przykład użycia:
 # Test-DaneKontaktowe -Telefon "123-456-789" -KodPocztowy "12-345"
+
+Test-DaneKontaktowe -Telefon 818-989-001 -KodPocztowy 45-287

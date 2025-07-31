@@ -1,4 +1,7 @@
-﻿function Test-Uzytkownik {
+﻿#Zmodyfikuj funkcję o sprawdzanie użytkwnikó AD 
+# ewentualnie dodaj inne akcje 
+
+function Test-Uzytkownik {
     param (
         [ValidateScript({
             $user = Get-LocalUser -Name $_ -ErrorAction SilentlyContinue

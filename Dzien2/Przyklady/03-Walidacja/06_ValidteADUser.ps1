@@ -1,4 +1,7 @@
-﻿# zmodyfikuj ten skrypt aby sprawdzał czy użytkownik juz czasem nie istnieje
+﻿# przerób skrypt na funkcje na zaawansowaną obwługującą whatif i confirm
+# zmodyfikuj ten skrypt aby sprawdzał czy użytkownik juz czasem nie istnieje
+# skomentuj go 
+# ustal ze hasło musi miec długość 10-15 znaków (możesz zastanowić się na temat validacji złożoności hasła)
 param (
     [Parameter(Mandatory)]
     [string]$Username,
