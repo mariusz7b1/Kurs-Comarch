@@ -1,10 +1,8 @@
-﻿function Test-ImieNazwisko {
-    param (
-        [ValidateNotNull()]
-        [string]$Imie,
+﻿param (
+    [ValidateNotNull()]
+    [string]$Imie,
 
-        [ValidateNotNullOrEmpty()]
-        [string]$Nazwisko
-    )
-    "Imię: $Imie, Nazwisko: $Nazwisko"
-}
+    [ValidateNotNullOrEmpty()]
+    [string]$Nazwisko
+)
+"Imię: $Imie, Nazwisko: $Nazwisko"
