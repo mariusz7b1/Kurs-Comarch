@@ -38,7 +38,7 @@ function Accept-ByValueAndByProperty {
 'Serwer01', 'Serwer02' | Accept-ByValueAndByProperty
 
 # Przykład użycia 2 – przekazywanie przez nazwę właściwości (ByPropertyName)
-[PSCustomObject]@{ Name = 'PC01' }, @{ Name = 'PC02' } | Accept-ByValueAndByProperty
+[PSCustomObject]@{ Name = 'PC01' }, [PSCustomObject]@{ Name = 'PC02' } | Accept-ByValueAndByProperty
 
 
 #get-help Accept-ByValueAndByProperty -ShowWindow

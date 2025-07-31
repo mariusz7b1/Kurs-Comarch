@@ -9,5 +9,6 @@ function Show-UpperCase {
     }
 }
 
-"ala","ma","kota"| Show-UpperCase 
-#| Sort-Object -Descending
+# get-help Show-UpperCase -ShowWindow
+
+"ala","ma","kota"| Show-UpperCase | Sort-Object -Descending

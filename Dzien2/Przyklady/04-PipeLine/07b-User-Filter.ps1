@@ -11,4 +11,4 @@
     }
 }
 
-Get-ADUser -filter * | Filter-AdminUsers
+Get-ADUser -filter * | Filter-AdminUsers | Sort-Object

@@ -9,5 +9,4 @@ function Get-ComputerName {
     }
 }
 
-@{ Name = '01' }, @{ Name = '02' } | Get-ComputerName  
-#| Get-ADComputer
+[PSCustomObject]@{ Name = '01' },[PSCustomObject] @{ Name = '02' } | Get-ComputerName #| Get-ADComputer

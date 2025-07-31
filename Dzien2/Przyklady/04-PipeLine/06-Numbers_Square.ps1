@@ -9,4 +9,4 @@ function Get-Square {
     }
 }
 
-1..5 | Get-Square #| Sort-Object -Descending
+1..5 | Get-Square | Sort-Object -Descending
