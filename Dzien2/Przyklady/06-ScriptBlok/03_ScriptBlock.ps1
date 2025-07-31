@@ -25,18 +25,4 @@ $script.Invoke(5, 7)
 Get-Service | Where-Object { $_.Status -eq 'Running' }
 1..5 | ForEach-Object { $_ * $_ }
 
-# Przykład 5
-function Process-List {
-    param(
-        [int[]]$Numbers,
-        [ScriptBlock]$Transform
-    )
-    foreach ($n in $Numbers) {
-        & $Transform.Invoke($n)
-    }
-}
-Process-List -Numbers @(1, 2, 3, 4) -Transform { param($x) "$x^2 = $($x*$x)" }
-
-# Przykład 6
-$multiply = { param($a, $b) $a * $b }
-& $multiply 3 4
+#
