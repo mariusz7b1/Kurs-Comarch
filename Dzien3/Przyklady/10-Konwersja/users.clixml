@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Objs Version="1.1.0.1" xmlns="http://schemas.microsoft.com/powershell/2004/04">
+  <Obj RefId="0">
+    <TN RefId="0">
+      <T>System.Management.Automation.PSCustomObject</T>
+    </TN>
+    <MS>
+      <S N="Name">TestUser</S>
+      <B N="Enabled">true</B>
+    </MS>
+  </Obj>
+</Objs>
