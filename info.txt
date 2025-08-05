@@ -1,21 +1,32 @@
-Udostępnione Materiały i pliki
-https://github.com/mariusz7b1/Kurs-Comarch
+#GitHub
+https://github.com/mariusz7b1/Python_Orange3dni_podstawa
+
+#Główna strona Pythona
+https://www.python.org/
+
+# Darmowy kurs
+https://pythoninstitute.org/python-essentials-1
 
 
-Materiały Microsoft
-PL
-https://learn.microsoft.com/pl-pl/training/courses/az-040t00?WT.mc_id=ilt_partner_webpage_wwl
-US
-https://learn.microsoft.com/en-us/training/courses/az-040t00?WT.mc_id=ilt_partner_webpage_wwl
+Inne ciekawe strony:
+
+https://www.w3schools.com/python/default.asp
+https://pl.python.org/
+https://edube.org/
+
+# funkcje wbudowane
+https://docs.python.org/pl/3/library/functions.html
 
 
-https://learn.microsoft.com/en-us/training/paths/powershell/?source=recommendations
+#Srodowisko
+#Piaskownica
+https://edube.org/sandbox
 
+Wirtualnie :)
+https://datalore.jetbrains.com/notebooks
 
-Virtual Box
-Host key: prawy control
-Ctrl-Alt-Del  -> Host Kye+Del
-Full screen -> Host key +F
+#Edytory
+https://code.visualstudio.com/Download
+https://code.visualstudio.com/docs/python/python-tutorial
 
-Logowanie do komp virtualnych hasło : Pa55w.rd
-
+https://www.jetbrains.com/pycharm/download/#section=windows
