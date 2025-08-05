@@ -6,8 +6,9 @@ from os import system
 system('cls')
 
 print("Przyklad 1")
-# i = 0 do i < 10  czyli od 0 do 9
-for i in range(10):
+
+
+for i in range(10):         # i = 0 do i < 10  czyli od 0 do 9
     print(i, end="-")
 
 
@@ -20,7 +21,7 @@ for i in range(1, 21):
 print("\nPrzyklad 3")
 for i in range(1, 21, 2):   # 1,3,5   ....
     if i % 2 == 0:          # liczba parzysta
-        print(i)            # Czyli nigdy tu się nie znajdziemy
+        print(i)            #
 else:
     print("Skonczyłem działać")
 
@@ -32,9 +33,16 @@ for i in range(1, 10):
     if i == 2:
         continue
     print(i)
+else:
+    print("Skonczyłem działać")
+
 
 print(i)
 
 print("\nPrzyklad 5")
-for i in range(-3, -10, -2):  # od do liczby ujemne
+for i in range(-3, 10, -2):  # od do liczby ujemne
     print(i)
+
+
+for i in range(5):
+    print(f"{i} -magda")

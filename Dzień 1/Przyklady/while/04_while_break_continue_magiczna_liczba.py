@@ -16,8 +16,9 @@ while magiczna_liczba != 33:
     if magiczna_liczba % 66 == 0:
         break
 
-    print(magiczna_liczba)
+    if magiczna_liczba == 33:
+        print("Podałeś magiczną liczbę ")
+    else:
+        print(magiczna_liczba, "nie jest magiczną liczbą")
 else:
-    print("Podałeś magiczną liczbę ")
-
-print("Koniec petli")
+    print("program zakonczył działanie znalezieniem Magicznej liczby", magiczna_liczba)

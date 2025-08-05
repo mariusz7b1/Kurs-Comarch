@@ -1,3 +1,6 @@
+""" 
+while - else break 
+"""
 from os import system
 system('cls')
 

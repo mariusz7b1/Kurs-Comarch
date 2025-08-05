@@ -8,7 +8,7 @@ system('cls')
 print("Podaj dzień tygodnia gdzie ")
 print("1 - to poniedziałek a 7 to niedziela ")
 
-day_number = int(input(" ? "))  # podana warosc konwertuje na int
+day_number = int(input(" ? "))  # podana wartosc konwertuje na int
 if day_number == 1:
     print("Poniedziałek")
 elif day_number == 2:
