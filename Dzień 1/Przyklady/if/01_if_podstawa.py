@@ -7,7 +7,7 @@ system('cls')
 
 
 x = 15
-if 5 > 10:			    # warunek jest True
+if x > 10:			    # warunek jest True
     print("x > 10")
     print("jestem w instrukcji if")
 
