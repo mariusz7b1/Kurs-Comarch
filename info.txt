@@ -1,6 +1,5 @@
 #GitHub
-https://github.com/mariusz7b1/Python_Orange3dni_podstawa
-
+https://github.com/mariusz7b1/Kurs-Comarch
 #Główna strona Pythona
 https://www.python.org/
 
