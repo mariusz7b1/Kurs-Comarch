@@ -1,3 +1,4 @@
+SAMOGLOSKI = ('a', 'u', 'i', 'e')
 
 
 # 1. Swap variables
@@ -28,10 +29,26 @@ status = "OK" if code == 200 else "FAIL"
 unique = list(set([1, 2, 2, 3, 3]))
 
 
-# 7. Return multiple
+# 8. Return multiple
 def return_multiple():
     return 10, 20, 30
 
 
 a, b, c = return_multiple()
 print(a, b, c)
+
+war = return_multiple()
+print(type(war), war)
+
+
+# 9. Return
+
+
+def parzysta(war):
+    return True if war % 2 == 0 else False
+
+
+if parzysta(4):
+    print("parzysta ")
+else:
+    print("nie parzysta")
