@@ -1,3 +1,5 @@
+
+
 # 1. Swap variables
 x, y = 5, 10
 y, x = x, y
@@ -24,3 +26,12 @@ status = "OK" if code == 200 else "FAIL"
 
 # 7. Remove duplicates with set
 unique = list(set([1, 2, 2, 3, 3]))
+
+
+# 7. Return multiple
+def return_multiple():
+    return 10, 20, 30
+
+
+a, b, c = return_multiple()
+print(a, b, c)
