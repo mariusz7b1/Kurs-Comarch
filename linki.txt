@@ -1,0 +1,10 @@
+DC1_przygot		https://youtu.be/v1h4j-thGuo
+DC1_przygot_uzp		https://youtu.be/KFqAdHTBsQc
+SVR1_przygot		https://youtu.be/b8fCy8P3Q2Q
+AD wprowadzenie		https://youtu.be/9VPMd-WV1lk
+AD obiekty		https://youtu.be/vmS0wOhIGUw
+Administracja 	1	https://youtu.be/nuBq0zAEczY
+GPO1			https://youtu.be/RtRkek9H5Ec
+DHCP 			https://youtu.be/Ur7qDqv5EVM
+DHCP FailOver		https://youtu.be/YMetQSuCNXM
+Fail Over Cluser        https://youtu.be/6EdkJO25j1A
