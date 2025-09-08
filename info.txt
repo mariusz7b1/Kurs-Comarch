@@ -1,9 +1,10 @@
-https://github.com/mariusz7b1/Kurs
+https://github.com/mariusz7b1/Kurs-Comarch
 
 
 Systemy: 
 https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019
 https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
+https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2025
 https://www.microsoft.com/en-us/evalcenter/evaluate-windows-11-enterprise
 https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise
 
@@ -13,6 +14,4 @@ LICENCJE
 https://techlibrary.hpe.com/us/en/enterprise/servers/licensing/index.aspx
 https://www.microsoft.com/en-us/windows-server/pricing?msockid=3628bc09f63b64071e82a937f71a6500
 
-BACKUP
-https://appuals.com/how-to-perform-backup-and-restore-in-windows-server-2019/
 
