@@ -1,4 +1,5 @@
 GPO1		https://youtu.be/RtRkek9H5Ec
-DHCP 		https://youtu.be/Ur7qDqv5EVM
+DHCP ogólnie	https://youtu.be/LFwGd5MzEUE
+DHCP Windows	https://youtu.be/Ur7qDqv5EVM
 DHC FailOver	https://youtu.be/YMetQSuCNXM
 
