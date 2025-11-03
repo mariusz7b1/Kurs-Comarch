@@ -1,0 +1,30 @@
+Get-ADDomain
+Get-ADForest
+
+Test-NetConnection 172.16.0.10
+
+Test-ComputerSecureChannel
+
+Get-NetIPConfiguration
+
+Get-NetIPAddress
+
+redircmp ou=new_computers,dc=kejasail,dc=msft
+
+Move-ADDirectoryServerOperationMasterRole  -Identity .... -OperationMasterRole  DomainNamingMaster,PDCEmulator,RIDMaster,SchemaMaster,InfrastructureMaster
+
+Move-ADDirectoryServerOperationMasterRole  -Identity ....  -OperationMasterRole 0,1,2,3,4
+
+Gdzie:
+	PDCEmulator		0
+	RIDMaster		1
+	InfrastructureMaster	2
+	SchemaMaster		3
+	DomainNamingMaster	4
+
+
+#AD
+Get-ADUser -Filter *
+Get-ADUser -Filter {name -like "a*"} | FT 
+Get-ADUser ala -Properties *
+Get-ADUser ala -Properties PasswordLastSet

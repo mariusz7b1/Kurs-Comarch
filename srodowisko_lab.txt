@@ -1,0 +1,12 @@
+Budowa środowiska testowego
+
+https://youtu.be/v1h4j-thGuo
+https://youtu.be/KFqAdHTBsQc
+https://youtu.be/b8fCy8P3Q2Q
+
+
+Systemy: 
+https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2022
+https://www.microsoft.com/en-us/evalcenter/evaluate-windows-server-2019
+https://www.microsoft.com/en-us/evalcenter/evaluate-windows-10-enterprise
+
