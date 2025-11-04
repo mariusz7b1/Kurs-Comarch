@@ -1,0 +1,13 @@
+https://en.wikipedia.org/wiki/AGDLP
+
+Film Administracja
+https://youtu.be/nuBq0zAEczY
+
+Adsi Edit 
+ms-DS-MachineAccountQuota
+
+redircmp "ou=New_computers,ou=kejamain,dc=keja,dc=msft"
+redirusr "ou=New_users,ou=kejamain,dc=keja,dc=msft"
+
+Set-ADOrganizationalUnit "OU=marketing,OU=Users,OU=KejaMain,DC=keja,DC=msft" -ProtectedFromAccidentalDeletion:$false
+Set-ADOrganizationalUnit "ou=New_users,ou=kejamain,dc=keja,dc=msft" -ProtectedFromAccidentalDeletion:$false
