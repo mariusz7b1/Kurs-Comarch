@@ -1,4 +1,0 @@
-Materiały do kursu
-https://github.com/mariusz7b1/Kurs-Comarch
-Dodatki:
-https://learn.microsoft.com/pl-pl/training/paths/active-directory-domain-services/
