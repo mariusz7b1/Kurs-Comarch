@@ -8,9 +8,9 @@ $days.GetType()
 #Use Get-Credential to obtain and store a credential
 $cred = Get-Credential
 $cred | Format-List
-$cred | Export-Clixml -Path d:\poswiadczenia.xml
+$cred | Export-Clixml -Path c:\poswiadczenia.xml
 $cred=$null
 $cred
 
-$cred = Import-Clixml -Path d:\poswiadczenia.xml
+$cred = Import-Clixml -Path c:\poswiadczenia.xml
 
