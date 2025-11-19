@@ -1,6 +1,6 @@
 ﻿
 # 1 ilosc
-$users=Get-ADUser -Filter {name -like 'k*' -or name -like 's*'} 
+$users=Get-ADUser -Filter {name -like 'r*' -or name -like 'm*'} 
 $users | Measure-Object 
 
 #2 Formatownie
