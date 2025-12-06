@@ -1,0 +1,13 @@
+HELP itp...
+https://learn.microsoft.com/pl-pl/training/modules/review-windows-powershell/
+https://learn.microsoft.com/pl-pl/training/modules/understand-command-syntax-windows-powershell/
+https://learn.microsoft.com/pl-pl/training/modules/find-commands-get-help-windows-powershell/
+
+Dodatek : Powershell i zastosowania
+https://learn.microsoft.com/pl-pl/training/modules/manage-active-directory-domain-services-use-powershell-cmdlets/
+https://learn.microsoft.com/pl-pl/training/modules/manage-network-service-settings-for-windows-devices-use-powershell-cmdlets/
+https://learn.microsoft.com/pl-pl/training/modules/manage-windows-server-settings-use-powershell-cmdlets/
+
+Pipline 1
+https://learn.microsoft.com/pl-pl/training/modules/understand-windows-powershell-pipeline/
+https://learn.microsoft.com/pl-pl/training/modules/select-sort-measure-objects-use-pipeline/
