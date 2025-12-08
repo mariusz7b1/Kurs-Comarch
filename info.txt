@@ -1,7 +1,6 @@
 Udostępnione Materiały i pliki
 https://github.com/mariusz7b1/Kurs-Comarch
 
-
 Materiały Microsoft
 PL
 https://learn.microsoft.com/pl-pl/training/courses/az-040t00?WT.mc_id=ilt_partner_webpage_wwl
