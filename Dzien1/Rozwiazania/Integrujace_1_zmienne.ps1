@@ -17,7 +17,7 @@ $users | Set-ADUser -City "Opole"
 $users | Set-ADUser -Department "Utajniony" 
 
 # spr 4,5
-$users=Get-ADUser -Filter {name -like 'k*' -or name -like 's*'}    -Properties City, Department
+$users=Get-ADUser -Filter {name -like 'r*' -or name -like 'm*'}    -Properties City, Department
 $users
 
 #6  nowa OU
