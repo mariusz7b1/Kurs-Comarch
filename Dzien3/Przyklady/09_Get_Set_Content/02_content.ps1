@@ -1,4 +1,5 @@
-﻿$zawartosc=Get-Content -LiteralPath "D:\dane\dane1k.txt"  -encoding utf8
+﻿
+$zawartosc=Get-Content -LiteralPath "c:\test\dane_1k.txt"  -encoding utf8
 
 foreach($linia in $zawartosc)
 {
