@@ -1,4 +1,5 @@
-﻿# Zadanie 1
+﻿
+# Zadanie 1
 $stringZad1 = "Witaj, świecie!"
 Write-Host "Zadanie 1: $stringZad1"
 
