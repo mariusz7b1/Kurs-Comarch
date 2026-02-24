@@ -12,6 +12,4 @@ Import-Module NetTCPIP
 Get-Module
 
 
-#https://www.powershellgallery.com/
-
 
